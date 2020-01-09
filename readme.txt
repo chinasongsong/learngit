@@ -1,2 +1,2 @@
-Git is a vesion conrtol system
+Git is a  distributed vesion conrtol system
 Git is free software
